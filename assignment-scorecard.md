@@ -4,7 +4,7 @@
 
 | Did the candidate:                                                                                                   | Yes | No  |
 | :------------------------------------------------------------------------------------------------------------------- | :-- | :-- |
-| Complete all the tasks in assignment?                                                                                |     |     |
+| Complete all the tasks in assignment?                                                                                |yes  |     |
 | Follow steps and instructions provided carefully?                                                                    |     |     |
 | Write code that follows best-practices?                                                                              |     |     |
 | Demonstrate understanding of the code they wrote?                                                                    |     |     |
